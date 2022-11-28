@@ -46,16 +46,3 @@ nav ul span{
 nav ul li a:hover{
     color: bisque;
 }
-
-section section2 {
-    display: flex;
-}
-
-div h3{
-    padding-left: 111px;
-    color: rgb(78, 5, 5);
-}
-section div p{
-    text-align: center;
-    width: 500px;
-}
