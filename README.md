@@ -20,6 +20,7 @@ Proje örnek görsel:
 ![projegörseli](https://i.hizliresim.com/hm5mzm5.png)
 ## Hazırlayan
 **Medetcan Diler**
+
 [Patika.dev profilim](https://app.patika.dev/meddo)
 
 [Github profilim](https://github.com/medetcandiler)
