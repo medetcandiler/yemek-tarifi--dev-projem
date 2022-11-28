@@ -46,3 +46,10 @@ nav ul span{
 nav ul li a:hover{
     color: bisque;
 }
+
+section nav{
+    display: block;
+}
+#resim1{
+    margin-top: -10px;
+}
